@@ -1,0 +1,304 @@
+ChestPain,ExerciseAngina,STSlope,Thal,HeartDisease
+Typical Angina,No,Downsloping,Fixed Defect,No
+Asymptomatic,Yes,Flat,Normal,Yes
+Asymptomatic,Yes,Flat,Reversable Defect,Yes
+Non-Anginal Pain,No,Downsloping,Normal,No
+Atypical Angina,No,Upsloping,Normal,No
+Atypical Angina,No,Upsloping,Normal,No
+Asymptomatic,No,Downsloping,Normal,Yes
+Asymptomatic,Yes,Upsloping,Normal,No
+Asymptomatic,No,Flat,Reversable Defect,Yes
+Asymptomatic,Yes,Downsloping,Reversable Defect,Yes
+Asymptomatic,No,Flat,Fixed Defect,No
+Atypical Angina,No,Flat,Normal,No
+Non-Anginal Pain,Yes,Flat,Fixed Defect,Yes
+Atypical Angina,No,Upsloping,Reversable Defect,No
+Non-Anginal Pain,No,Upsloping,Reversable Defect,No
+Non-Anginal Pain,No,Upsloping,Normal,No
+Atypical Angina,No,Downsloping,Reversable Defect,Yes
+Asymptomatic,No,Upsloping,Normal,No
+Non-Anginal Pain,No,Upsloping,Normal,No
+Atypical Angina,No,Upsloping,Normal,No
+Typical Angina,Yes,Flat,Normal,No
+Typical Angina,No,Upsloping,Normal,No
+Atypical Angina,No,Flat,Normal,Yes
+Non-Anginal Pain,No,Upsloping,Reversable Defect,Yes
+Asymptomatic,Yes,Flat,Reversable Defect,Yes
+Non-Anginal Pain,No,Flat,Normal,No
+Non-Anginal Pain,No,Upsloping,Normal,No
+Typical Angina,No,Downsloping,Normal,No
+Asymptomatic,No,Upsloping,Normal,No
+Asymptomatic,Yes,Flat,Reversable Defect,Yes
+Typical Angina,No,Upsloping,Normal,No
+Asymptomatic,Yes,Upsloping,Reversable Defect,Yes
+Non-Anginal Pain,No,Upsloping,Normal,Yes
+Asymptomatic,No,Flat,Reversable Defect,No
+Non-Anginal Pain,Yes,Upsloping,Normal,No
+Asymptomatic,No,Upsloping,Normal,No
+Asymptomatic,Yes,Flat,Reversable Defect,Yes
+Asymptomatic,Yes,Flat,Fixed Defect,Yes
+Asymptomatic,Yes,Flat,Reversable Defect,Yes
+Non-Anginal Pain,Yes,Flat,Normal,No
+Asymptomatic,No,Flat,Reversable Defect,Yes
+Typical Angina,Yes,Upsloping,Reversable Defect,No
+Atypical Angina,No,Upsloping,Normal,No
+Non-Anginal Pain,No,Upsloping,Normal,No
+Asymptomatic,No,Upsloping,Normal,Yes
+Non-Anginal Pain,No,Flat,Reversable Defect,Yes
+Non-Anginal Pain,No,Upsloping,Normal,No
+Asymptomatic,No,Flat,Reversable Defect,Yes
+Non-Anginal Pain,No,Upsloping,Normal,No
+Non-Anginal Pain,No,Downsloping,Normal,No
+Atypical Angina,No,Upsloping,Normal,No
+Asymptomatic,No,Upsloping,Reversable Defect,No
+Asymptomatic,No,Upsloping,Normal,Yes
+Atypical Angina,No,Upsloping,Normal,No
+Asymptomatic,Yes,Upsloping,Reversable Defect,Yes
+Asymptomatic,Yes,Flat,Reversable Defect,Yes
+Non-Anginal Pain,No,Flat,Reversable Defect,Yes
+Asymptomatic,No,Upsloping,Reversable Defect,Yes
+Non-Anginal Pain,No,Downsloping,Normal,No
+Typical Angina,Yes,Upsloping,Normal,No
+Asymptomatic,Yes,Flat,Reversable Defect,Yes
+Non-Anginal Pain,Yes,Downsloping,Normal,No
+Asymptomatic,Yes,Flat,Reversable Defect,Yes
+Non-Anginal Pain,No,Upsloping,Normal,No
+Asymptomatic,No,Flat,Reversable Defect,Yes
+Asymptomatic,Yes,Flat,Reversable Defect,Yes
+Non-Anginal Pain,No,Flat,Normal,Yes
+Non-Anginal Pain,No,Upsloping,Reversable Defect,No
+Asymptomatic,Yes,Downsloping,Reversable Defect,Yes
+Non-Anginal Pain,No,Flat,Normal,Yes
+Non-Anginal Pain,No,Upsloping,Normal,No
+Asymptomatic,No,Flat,Reversable Defect,Yes
+Asymptomatic,Yes,Flat,Reversable Defect,Yes
+Asymptomatic,No,Upsloping,Fixed Defect,Yes
+Asymptomatic,No,Upsloping,Normal,Yes
+Non-Anginal Pain,No,Upsloping,Normal,No
+Asymptomatic,Yes,Flat,Reversable Defect,Yes
+Non-Anginal Pain,No,Upsloping,Normal,No
+Atypical Angina,No,Flat,Normal,No
+Asymptomatic,Yes,Upsloping,Reversable Defect,Yes
+Asymptomatic,Yes,Flat,Normal,No
+Asymptomatic,No,Flat,Normal,No
+Non-Anginal Pain,No,Upsloping,Normal,No
+Non-Anginal Pain,Yes,Flat,Reversable Defect,Yes
+Atypical Angina,No,Upsloping,Normal,No
+Non-Anginal Pain,No,Upsloping,Normal,No
+Non-Anginal Pain,No,Upsloping,Normal,No
+Non-Anginal Pain,No,Upsloping,?,No
+Asymptomatic,No,Upsloping,Normal,No
+Non-Anginal Pain,No,Upsloping,Normal,No
+Asymptomatic,No,Flat,Normal,No
+Asymptomatic,No,Downsloping,Reversable Defect,Yes
+Non-Anginal Pain,No,Flat,Reversable Defect,No
+Non-Anginal Pain,No,Flat,Normal,No
+Non-Anginal Pain,No,Upsloping,Normal,No
+Asymptomatic,Yes,Upsloping,Reversable Defect,Yes
+Asymptomatic,Yes,Flat,Reversable Defect,Yes
+Asymptomatic,No,Flat,Reversable Defect,Yes
+Atypical Angina,No,Upsloping,Normal,No
+Asymptomatic,No,Upsloping,Normal,No
+Asymptomatic,No,Upsloping,Normal,No
+Typical Angina,No,Upsloping,Normal,No
+Asymptomatic,No,Upsloping,Normal,No
+Non-Anginal Pain,No,Upsloping,Normal,No
+Non-Anginal Pain,No,Flat,Reversable Defect,Yes
+Atypical Angina,No,Upsloping,Reversable Defect,No
+Asymptomatic,Yes,Upsloping,Reversable Defect,Yes
+Non-Anginal Pain,No,Flat,Reversable Defect,Yes
+Asymptomatic,Yes,Flat,Reversable Defect,Yes
+Asymptomatic,No,Flat,Reversable Defect,Yes
+Asymptomatic,Yes,Flat,Reversable Defect,Yes
+Asymptomatic,Yes,Flat,Normal,Yes
+Typical Angina,No,Flat,Fixed Defect,No
+Asymptomatic,Yes,Flat,Reversable Defect,Yes
+Non-Anginal Pain,No,Flat,Reversable Defect,Yes
+Atypical Angina,No,Flat,Fixed Defect,No
+Non-Anginal Pain,No,Upsloping,Normal,No
+Asymptomatic,No,Upsloping,Normal,No
+Asymptomatic,Yes,Upsloping,Reversable Defect,Yes
+Asymptomatic,No,Flat,Reversable Defect,Yes
+Asymptomatic,Yes,Upsloping,Reversable Defect,Yes
+Asymptomatic,No,Flat,Reversable Defect,Yes
+Non-Anginal Pain,Yes,Flat,Normal,No
+Asymptomatic,Yes,Downsloping,Reversable Defect,Yes
+Typical Angina,No,Flat,Normal,Yes
+Atypical Angina,No,Flat,Normal,No
+Asymptomatic,Yes,Downsloping,Reversable Defect,Yes
+Asymptomatic,Yes,Flat,Reversable Defect,Yes
+Atypical Angina,No,Upsloping,Normal,No
+Asymptomatic,No,Upsloping,Normal,No
+Non-Anginal Pain,No,Flat,Reversable Defect,No
+Non-Anginal Pain,Yes,Upsloping,Reversable Defect,No
+Atypical Angina,No,Upsloping,Normal,No
+Asymptomatic,Yes,Upsloping,Normal,No
+Non-Anginal Pain,No,Flat,Normal,No
+Atypical Angina,No,Flat,Normal,No
+Asymptomatic,Yes,Downsloping,Reversable Defect,Yes
+Atypical Angina,No,Flat,Reversable Defect,Yes
+Asymptomatic,Yes,Flat,Reversable Defect,Yes
+Non-Anginal Pain,No,Flat,Normal,No
+Atypical Angina,Yes,Upsloping,Normal,No
+Typical Angina,No,Flat,Reversable Defect,Yes
+Atypical Angina,No,Upsloping,Normal,No
+Non-Anginal Pain,Yes,Flat,Reversable Defect,Yes
+Non-Anginal Pain,Yes,Flat,Reversable Defect,No
+Non-Anginal Pain,No,Upsloping,Normal,Yes
+Asymptomatic,No,Flat,Reversable Defect,Yes
+Non-Anginal Pain,No,Upsloping,Normal,No
+Atypical Angina,No,Upsloping,Normal,No
+Non-Anginal Pain,No,Upsloping,Normal,No
+Typical Angina,No,Flat,Reversable Defect,No
+Asymptomatic,No,Flat,Normal,No
+Non-Anginal Pain,No,Flat,Reversable Defect,No
+Asymptomatic,Yes,Flat,Reversable Defect,Yes
+Asymptomatic,Yes,Downsloping,Normal,Yes
+Asymptomatic,No,Flat,Normal,Yes
+Asymptomatic,Yes,Upsloping,Reversable Defect,Yes
+Asymptomatic,No,Upsloping,Reversable Defect,Yes
+Asymptomatic,No,Flat,Reversable Defect,Yes
+Non-Anginal Pain,No,Upsloping,Reversable Defect,No
+Atypical Angina,No,Upsloping,Reversable Defect,No
+Asymptomatic,Yes,Upsloping,Normal,Yes
+Non-Anginal Pain,No,Flat,Normal,No
+Asymptomatic,No,Flat,Normal,No
+Non-Anginal Pain,No,Upsloping,Normal,No
+Asymptomatic,Yes,Upsloping,Reversable Defect,No
+Non-Anginal Pain,No,Upsloping,Normal,No
+Atypical Angina,Yes,Upsloping,Normal,No
+Asymptomatic,Yes,Upsloping,Reversable Defect,Yes
+Atypical Angina,No,Flat,Normal,No
+Non-Anginal Pain,Yes,Flat,Reversable Defect,Yes
+Asymptomatic,Yes,Upsloping,Reversable Defect,No
+Asymptomatic,Yes,Flat,Normal,Yes
+Asymptomatic,No,Flat,Normal,No
+Asymptomatic,No,Flat,Fixed Defect,Yes
+Asymptomatic,Yes,Flat,Reversable Defect,Yes
+Asymptomatic,No,Upsloping,Reversable Defect,No
+Asymptomatic,Yes,Flat,Fixed Defect,Yes
+Non-Anginal Pain,No,Upsloping,Normal,No
+Non-Anginal Pain,No,Upsloping,Normal,No
+Asymptomatic,No,Flat,Reversable Defect,Yes
+Asymptomatic,Yes,Flat,Reversable Defect,Yes
+Typical Angina,No,Upsloping,Normal,No
+Typical Angina,No,Downsloping,Reversable Defect,No
+Asymptomatic,No,Upsloping,Normal,Yes
+Atypical Angina,No,Upsloping,Normal,No
+Non-Anginal Pain,No,Downsloping,Reversable Defect,No
+Atypical Angina,Yes,Flat,Fixed Defect,Yes
+Atypical Angina,No,Upsloping,Reversable Defect,Yes
+Non-Anginal Pain,No,Flat,Reversable Defect,Yes
+Non-Anginal Pain,No,Upsloping,Normal,No
+Asymptomatic,Yes,Flat,Reversable Defect,Yes
+Asymptomatic,Yes,Flat,Reversable Defect,Yes
+Asymptomatic,No,Flat,Normal,Yes
+Non-Anginal Pain,No,Flat,Normal,No
+Asymptomatic,Yes,Flat,Normal,Yes
+Typical Angina,No,Flat,Normal,No
+Asymptomatic,Yes,Flat,Normal,No
+Atypical Angina,No,Upsloping,Normal,No
+Typical Angina,No,Upsloping,Normal,Yes
+Asymptomatic,No,Upsloping,Normal,No
+Asymptomatic,Yes,Upsloping,Normal,No
+Non-Anginal Pain,No,Upsloping,Reversable Defect,No
+Non-Anginal Pain,No,Upsloping,Reversable Defect,No
+Asymptomatic,No,Upsloping,Reversable Defect,No
+Asymptomatic,Yes,Flat,Reversable Defect,Yes
+Asymptomatic,Yes,Flat,Reversable Defect,Yes
+Asymptomatic,Yes,Flat,Reversable Defect,Yes
+Atypical Angina,No,Upsloping,Normal,No
+Asymptomatic,Yes,Flat,Normal,Yes
+Non-Anginal Pain,No,Upsloping,Normal,No
+Typical Angina,Yes,Flat,Reversable Defect,Yes
+Non-Anginal Pain,No,Flat,Normal,No
+Asymptomatic,Yes,Flat,Reversable Defect,Yes
+Asymptomatic,No,Upsloping,Normal,Yes
+Typical Angina,No,Flat,Reversable Defect,No
+Atypical Angina,No,Upsloping,Normal,No
+Asymptomatic,Yes,Flat,Normal,No
+Asymptomatic,No,Flat,Normal,No
+Asymptomatic,No,Upsloping,Normal,No
+Non-Anginal Pain,Yes,Upsloping,Normal,No
+Non-Anginal Pain,No,Upsloping,Normal,No
+Non-Anginal Pain,No,Upsloping,Normal,No
+Asymptomatic,Yes,Flat,Reversable Defect,Yes
+Asymptomatic,Yes,Flat,Normal,Yes
+Atypical Angina,No,Upsloping,Normal,No
+Asymptomatic,No,Upsloping,Normal,No
+Non-Anginal Pain,No,Upsloping,Normal,No
+Asymptomatic,Yes,Flat,Normal,Yes
+Asymptomatic,Yes,Upsloping,Normal,Yes
+Non-Anginal Pain,No,Flat,Normal,No
+Asymptomatic,Yes,Flat,Normal,Yes
+Non-Anginal Pain,No,Upsloping,Normal,Yes
+Atypical Angina,Yes,Upsloping,Normal,No
+Non-Anginal Pain,No,Upsloping,Normal,No
+Asymptomatic,Yes,Flat,Normal,Yes
+Asymptomatic,Yes,Downsloping,Reversable Defect,Yes
+Asymptomatic,No,Upsloping,Reversable Defect,Yes
+Atypical Angina,No,Flat,Normal,No
+Atypical Angina,No,Upsloping,Normal,No
+Atypical Angina,No,Upsloping,Normal,No
+Atypical Angina,No,Upsloping,Normal,No
+Asymptomatic,No,Upsloping,Normal,No
+Typical Angina,No,Flat,Normal,Yes
+Non-Anginal Pain,No,Upsloping,Normal,No
+Asymptomatic,No,Flat,Normal,Yes
+Asymptomatic,No,Upsloping,Reversable Defect,Yes
+Asymptomatic,Yes,Flat,Normal,Yes
+Asymptomatic,No,Upsloping,Reversable Defect,Yes
+Atypical Angina,No,Upsloping,Normal,No
+Asymptomatic,Yes,Flat,Fixed Defect,No
+Asymptomatic,No,Flat,Reversable Defect,Yes
+Asymptomatic,Yes,Flat,Reversable Defect,No
+Non-Anginal Pain,No,Upsloping,Normal,No
+Asymptomatic,No,Flat,Normal,No
+Non-Anginal Pain,No,Flat,Normal,No
+Asymptomatic,No,Upsloping,Normal,No
+Non-Anginal Pain,No,Flat,Normal,No
+Atypical Angina,No,Upsloping,Normal,No
+Atypical Angina,No,Upsloping,Reversable Defect,Yes
+Non-Anginal Pain,No,Flat,Normal,No
+Atypical Angina,No,Upsloping,Normal,Yes
+Typical Angina,No,Upsloping,Normal,No
+Non-Anginal Pain,No,Upsloping,Normal,No
+Asymptomatic,Yes,Flat,Normal,Yes
+Asymptomatic,Yes,Flat,Fixed Defect,Yes
+Asymptomatic,Yes,Flat,?,Yes
+Non-Anginal Pain,No,Flat,Fixed Defect,Yes
+Asymptomatic,No,Upsloping,Reversable Defect,Yes
+Non-Anginal Pain,No,Upsloping,Normal,No
+Asymptomatic,Yes,Upsloping,Reversable Defect,Yes
+Asymptomatic,No,Upsloping,Fixed Defect,No
+Asymptomatic,Yes,Flat,Reversable Defect,Yes
+Asymptomatic,No,Flat,Normal,No
+Typical Angina,No,Upsloping,Normal,Yes
+Typical Angina,No,Flat,Reversable Defect,No
+Non-Anginal Pain,No,Flat,Normal,No
+Non-Anginal Pain,No,Flat,Normal,No
+Atypical Angina,No,Upsloping,Normal,Yes
+Asymptomatic,No,Flat,Normal,No
+Asymptomatic,Yes,Flat,Reversable Defect,Yes
+Non-Anginal Pain,No,Upsloping,Normal,No
+Asymptomatic,Yes,Flat,Reversable Defect,Yes
+Atypical Angina,No,Upsloping,Normal,No
+Asymptomatic,No,Upsloping,Reversable Defect,Yes
+Asymptomatic,No,Downsloping,Fixed Defect,Yes
+Asymptomatic,Yes,Flat,Fixed Defect,Yes
+Atypical Angina,No,Flat,Reversable Defect,No
+Atypical Angina,No,Upsloping,Reversable Defect,No
+Atypical Angina,No,Downsloping,Normal,No
+Non-Anginal Pain,No,Flat,Reversable Defect,Yes
+Atypical Angina,No,Upsloping,Normal,No
+Asymptomatic,Yes,Downsloping,Fixed Defect,Yes
+Asymptomatic,Yes,Upsloping,Reversable Defect,Yes
+Asymptomatic,Yes,Flat,Normal,Yes
+Atypical Angina,No,Upsloping,Normal,No
+Asymptomatic,No,Flat,Fixed Defect,Yes
+Asymptomatic,Yes,Flat,Reversable Defect,Yes
+Typical Angina,No,Flat,Reversable Defect,Yes
+Asymptomatic,No,Flat,Reversable Defect,Yes
+Asymptomatic,Yes,Flat,Reversable Defect,Yes
+Atypical Angina,No,Flat,Normal,Yes
+Non-Anginal Pain,No,Upsloping,Normal,No
