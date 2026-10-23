@@ -60,6 +60,14 @@ Then open the local URL shown in the terminal, usually:
 http://localhost:8501
 ```
 
+### Streamlit Community Cloud
+
+In the app's **Advanced settings**, select **Python 3.12** and save the
+settings before rebooting the app. The `runtime.txt` file records the same
+version for deployments that read the repository runtime configuration. If the
+cloud logs still show Python 3.14, the app's saved Advanced settings are
+overriding `runtime.txt`; update that setting and use **Reboot app**.
+
 ## How to use it
 
 1. Select values for the four available clinical/exercise features.
